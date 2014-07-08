@@ -1,3 +1,3 @@
-nirajpant.github.io
+niraj.github.io
 ===================
 My website
