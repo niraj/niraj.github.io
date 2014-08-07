@@ -1,3 +1,3 @@
 niraj.github.io
 ===================
-My website
+My website hosted on GH Pages.
